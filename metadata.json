@@ -1,0 +1,7 @@
+{
+  "name": "MedCore Nexus - Enterprise Health Management",
+  "description": "A professional, patent-ready hospital appointment management system featuring intelligent load balancing, dynamic slot compression, and role-aware UI architectures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
